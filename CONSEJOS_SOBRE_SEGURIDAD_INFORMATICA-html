@@ -1,0 +1,70 @@
+<!DOCTYPE html">
+<html lang="es">
+<head>
+	<meta charset="UTF-8"/>
+	<meta description="Sitio web HTML5"/>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+<title>SEGURIDAD INFORMATICA-LECTURAS|Consejos sobre seguridad informatica </title>
+</head>
+<img src="img/logo1.jpg" alt="Aquí va una imagen" title="logo_unad">
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<div id="header" ><div id="headerContent">SEGURIDAD INFORMATICA-LECTURAS </div></div>
+<div id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Inicio</a></li>
+   <li class="current-page-parent"><a href="MATERIAL_DE_LECTURA.html" class="current-page-parent daddy">MATERIAL DE LECTURA</a>
+   <ul>
+<div id='topPagination'>
+<div class="pagination noprt">
+<a href="MATERIAL_DE_LECTURA.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="MATERIAL_MULTIMEDIA.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</div>
+</div>
+<div id="main-wrapper">
+<div id="main"><a name="main"></a>
+<div id="nodeDecoration"><h1 id="nodeTitle">CONSEJOS SOBRE SEGURIDAD INFORMÁTICA</h1></div>
+<div class="margenes espaciado">
+		<img src="img/SGINF3.jpg" width="320" height="143">
+		<div id="header" ><div id="headerContent">ACTUALICE REGULARMENTE SU SISTEMA</div></div>
+		<p>operativo y el software instalado en su equipo, poniendo especial atención a las actualizaciones de su navegador web. A veces, los sistemas operativos presentan fallos, que pueden ser aprovechados por delincuentes informáticos. Frecuentemente aparecen actualizaciones que solucionan dichos fallos. Estar al día con las actualizaciones, así como aplicar los parches de seguridad recomendados por los fabricantes, le ayudará a prevenir la posible intrusión de hackers y la aparición de nuevos virus. </p>
+		<img src="img/SGINF4.jpg" width="320" height="143">
+		<div id="header" ><div id="headerContent">INSTALE UN ANTIVIRUS</div></div>
+		<p>y actualícelo con frecuencia. Analice con su antivirus todos los dispositivos de almacenamiento de datos que utilice y todos los archivos nuevos, especialmente aquellos archivos descargados de internet.</p>
+		<br>
+		<img src="img/SGINF5.jpg" width="320" height="143">	
+		<div id="header" ><div id="headerContent">INSTALE UN FIREWALL</div></div>
+		<p>o Cortafuegos con el fin de restringir accesos no autorizados de Internet.
+Es recomendable tener instalado en su equipo algún tipo de software anti-spyware, para evitar que se introduzcan en su equipo programas espías destinados a recopilar información confidencial sobre el usuario. </p>
+		<br>	
+		<img src="img/SGINF6.jpg" width="320" height="143">	
+		<div id="header" ><div id="headerContent">UTILICE CONTRASEÑAS SEGURAS</div></div>
+		<p>es decir, aquellas compuestas por ocho caracteres, como mínimo, y que combinen letras, números y símbolos. Es conveniente además, que modifique sus contraseñas con frecuencia. En especial, le recomendamos que cambie la clave de su cuenta de correo si accede con frecuencia desde equipos públicos.</p>
+		<br>
+		<img src="img/SGINF7.jpg" width="320" height="143">	
+		<div id="header" ><div id="headerContent"> NAVEGUE POR PAGINAS WEB SEGURAS Y DE CONFIANZA</div></div>
+		<p>Para diferenciarlas identifique si dichas páginas tienen algún sello o certificado que garanticen su calidad y fiabilidad. Extreme la precaución si va a realizar compras online o va a facilitar información confidencial a través de internet. En estos casos reconocerá como páginas seguras aquellas que cumplan dos requisitos:
+Deben empezar por https:// en lugar de http.
+En la barra del navegador debe aparecer el icono del candado cerrado. A través de este icono se puede acceder a un certificado digital que confirma la autenticidad de la página.</p>
+		<br>	
+		<img src="img/SGINF8.jpg" width="320" height="143">	
+		<div id="header" ><div id="headerContent">SEA CUIDADOSO AL UTILIZAR PROGRAMAS DE ACCESO REMOTO</div></div>
+		<p>A través de internet y mediante estos programas, es posible acceder a un ordenador, desde otro situado a kilómetros de distancia. Aunque esto supone una gran ventaja, puede poner en peligro la seguridad de su sistema.</p>
+		<br>
+		<img src="img/SGINF9.jpg" width="320" height="143">	
+		<div id="header" ><div id="headerContent">PONGA ESPECIAL ATENCIN EN EL TRATAMIENTO DE SU CORREO ELECTRONICO</div></div>
+		<p>ya que es una de las herramientas más utilizadas para llevar a cabo estafas, introducir virus, etc. Por ello le recomendamos que:
+No abra mensajes de correo de remitentes desconocidos.
+Desconfíe de aquellos e-mails en los que entidades bancarias, compañías de subastas o sitios de venta online, le solicitan contraseñas, información confidencial, etc.
+No propague aquellos mensajes de correo con contenido dudoso y que le piden ser reenviados a todos sus contactos. Este tipo de mensajes, conocidos como hoaxes, pretenden avisar de la aparición de nuevos virus, transmitir leyendas urbanas o mensajes solidarios, difundir noticias impactantes, etc. Estas cadenas de e-mails se suelen crear con el objetivo de captar las direcciones de correo de usuarios a los que posteriormente se les enviarán mensajes con virus, phishing o todo tipo de spam.
+Utilice algún tipo de software Anti-Spam para proteger su cuenta de correo de mensajes no deseados.</p>
+		<br>		
+</div>
+<div id='bottomPagination'>
+<div class="pagination noprt">
+<a href="MATERIAL_DE_LECTURA.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="MATERIAL_MULTIMEDIA.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</div>
+</div>
+<footer>
+	<img src="img/Logo_unad pie.jpg" alt="Aquí va una imagen" title="Logo_unad pie">Sede Nacional: Calle 14 Sur No. 14 - 23PBX:(+57) 1 344 3700 Bogotá D.C. Colombia.
+Línea Nacional gratuita desde Colombia 018000115223Correo electrónico: atencionalusuario@unad.edu.co
