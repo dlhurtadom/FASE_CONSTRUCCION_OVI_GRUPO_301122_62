@@ -1,0 +1,57 @@
+<!DOCTYPE html">
+<html lang="es">
+<head>
+	<meta charset="UTF-8"/>
+	<meta description="Sitio web HTML5"/>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+<title>SEGURIDAD INFORMATICA-LECTURAS|Concepto basico de seguridad informatica </title>
+</head>
+<img src="img/logo1.jpg" alt="Aquí va una imagen" title="logo_unad">
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<div id="header" ><div id="headerContent">SEGURIDAD INFORMATICA-LECTURAS </div></div>
+<div id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Inicio</a></li>
+   <li class="current-page-parent"><a href="MATERIAL_DE_LECTURA.html" class="current-page-parent daddy">MATERIAL DE LECTURA</a>
+   <ul>
+      <li id="active"><a href="presentacin_introductoria_a_html5.html" class="active no-ch">Presentación Introductoria a HTML5</a></li>
+<div id='topPagination'>
+<div class="pagination noprt">
+<a href="MATERIAL_DE_LECTURA.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="MATERIAL_MULTIMEDIA.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</div>
+</div>
+<div id="main-wrapper">
+<div id="main"><a name="main"></a>
+<div id="nodeDecoration"><h1 id="nodeTitle">CONCEPTO BASICO DE SEGURIDAD INFORMATICA</h1></div>
+<div class="margenes espaciado">
+		<p> La seguridad informática tiene como objetivo dar a conocer los riesgos y amenazas que existen actualmente en la Internet, debido al aumento de su uso es necesario disminuir las vulnerabilidades a los que cada día estamos expuestos por usar la red.  Por lo tanto es muy importante conocer cuáles son los recursos que tenemos y que necesitan protección para así controlar el ingreso al sistema y dar a conocer las reglas que se deben tener para esto. Uno de los grandes problemas que existen es que muchas personas no le dan mayor importancia a la seguridad informática ya sea por falta de conocimiento o porque creen que jamás lo utilizaran. Pero lo que si es cierto es que todos los días se inventan nuevas formas de ingresar a nuestros equipos, por tal razón es muy importante que nos preparemos y aprendamos sobre el tema. </p>
+		<br>
+		<p> Para empezar procederemos a definir que es Seguridad Informática: </p>
+		<br>
+		<p> “La seguridad informática es una disciplina que se encarga de proteger la integridad y la privacidad de la información almacenada en un sistema informático. De todas formas, no existe ninguna técnica que permita asegurar la inviolabilidad de un sistema.” (Tomado de http://definicion.de/seguridad-informatica/). </p>
+		<br>
+		<p> Uno de los propósitos de la seguridad informática es proteger la información que tenemos en los discos duros de los equipos y en todas las unidades de almacenamiento que se usen, también se aplica para tener nuestra red a salvo de cualquier intruso que pueda afectar el óptimo funcionamiento de la misma. </p>
+		<br>
+		<p> A continuación describiremos brevemente algunas de estas amenazas: </p>
+		<br>
+		<div id="header" ><div id="headerContent">RIESGOS FISICOS </div></div>
+		<p> Amenazas Naturales: Es muy difícil predecir el momento en el que se pueda presentar una catástrofe natural (terremotos, incendios, inundaciones, etc.), que pueden provocar un daño, interrupción del servicio o en el peor de los casos la destrucción total de los equipos que por lo general ocasionan que la empresa que sufra este tipo de catástrofe pueda llegar al cierre de la misma ya que no pueden recuperar la información ni los equipos. </p>
+		<br>
+		<p> Para prevenir o minimizar la perdida se pueden tener equipos de respaldo en otra ubicación física o virtualizar la información para tenerla disponible desde cualquier lugar. </p>
+		<br>
+		<p> Problemas eléctricos: Es importante conocer la importancia de contar con medidas de seguridad eléctrica ya que pueden generar desde un corto circuito que puede quemar los equipos, o generar radiaciones electromagnéticas que pueden afectar el rendimiento de los equipos o los datos de los discos magnéticos. </p>
+		<br>
+		<p> Para prevenir esta amenaza es necesario contar con sistemas anti fallo de alimentación continua y seguir las normas de seguridad rigurosamente. </p>
+		<br>
+    		<br>		
+</div>
+<div id='bottomPagination'>
+<div class="pagination noprt">
+<a href="MATERIAL_DE_LECTURA.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="MATERIAL_MULTIMEDIA.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</div>
+</div>
+<footer>
+	<img src="img/Logo_unad pie.jpg" alt="Aquí va una imagen" title="Logo_unad pie">Sede Nacional: Calle 14 Sur No. 14 - 23PBX:(+57) 1 344 3700 Bogotá D.C. Colombia.
+Línea Nacional gratuita desde Colombia 018000115223Correo electrónico: atencionalusuario@unad.edu.co
