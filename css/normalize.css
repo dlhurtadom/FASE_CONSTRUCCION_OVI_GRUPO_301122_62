@@ -304,21 +304,6 @@ html [type="button"], /* 1 */
 
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
-}
-
-/**
- * Remove the default vertical scrollbar in IE.
- */
-
-
-/**
- * 1. Add the correct box sizing in IE 10-.
- * 2. Remove the padding in IE 10-.
- */
-
-  box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
-}
 
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
