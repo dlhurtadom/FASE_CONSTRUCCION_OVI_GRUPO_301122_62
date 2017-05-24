@@ -285,7 +285,5 @@ select { /* 1 */
 button,
 html [type="button"], /* 1 */
 [type="reset"],
-[type="submit"] {
-  
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
+[type="submit"] 
+ 
