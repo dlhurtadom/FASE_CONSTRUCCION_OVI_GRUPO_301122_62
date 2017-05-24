@@ -292,7 +292,7 @@ html [type="button"], /* 1 */
  * Remove the inner border and padding in Firefox.
  */
  
-}
+
 
 /**
  * Change the border, margin, and padding in all browsers (opinionated).
@@ -350,9 +350,6 @@ html [type="button"], /* 1 */
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-
-
-}
 
 /**
  * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
