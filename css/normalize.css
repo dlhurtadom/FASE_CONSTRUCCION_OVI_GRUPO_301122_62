@@ -286,34 +286,10 @@ button,
 html [type="button"], /* 1 */
 [type="reset"],
 [type="submit"] {
-
-
-/**
- * Remove the inner border and padding in Firefox.
- */
- 
-
-
-/**
- * Change the border, margin, and padding in all browsers (opinionated).
- */
-
   
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
-
-/**
- * Correct the cursor style of increment and decrement buttons in Chrome.
- */
-
-/**
- * 1. Correct the odd appearance in Chrome and Safari.
- * 2. Correct the outline style in Safari.
- */
-
-/**
- * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
- 
+}
