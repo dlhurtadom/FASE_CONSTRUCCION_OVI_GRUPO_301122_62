@@ -292,7 +292,7 @@ html [type="button"], /* 1 */
  * Remove the inner border and padding in Firefox.
  */
    
- * Restore the focus styles unset by the previous rule.
+ 
 }
 
 /**
@@ -352,7 +352,7 @@ html [type="button"], /* 1 */
  * 2. Correct the outline style in Safari.
  */
 
-[type="search"] {
+
 }
 
 /**
@@ -409,4 +409,3 @@ template {
 
 [hidden] {
   display: none;
-}
