@@ -342,7 +342,6 @@ html [type="button"], /* 1 */
  * 2. Remove the padding in IE 10-.
  */
 
-[type="checkbox"],
 [type="radio"] {
   box-sizing: border-box; /* 1 */
   padding: 0; /* 2 */
@@ -365,11 +364,9 @@ html [type="button"], /* 1 */
  * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
  */
 
-}
  * 2. Change font properties to `inherit` in Safari.
  */
 
-}
 /* Interactive
    ========================================================================== */
 /*
