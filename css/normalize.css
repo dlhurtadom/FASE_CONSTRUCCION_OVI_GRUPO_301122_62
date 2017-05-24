@@ -355,7 +355,6 @@ html [type="button"], /* 1 */
  */
 
 [type="search"] {
-  outline-offset: -2px; /* 2 */
 }
 
 /**
