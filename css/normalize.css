@@ -342,7 +342,6 @@ html [type="button"], /* 1 */
  * 2. Remove the padding in IE 10-.
  */
 
-[type="radio"] {
   box-sizing: border-box; /* 1 */
   padding: 0; /* 2 */
 }
@@ -377,7 +376,6 @@ html [type="button"], /* 1 */
 details, /* 1 */
 menu {
   display: block;
-}
 
 /*
  * Add the correct display in all browsers.
