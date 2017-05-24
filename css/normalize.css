@@ -335,7 +335,6 @@ html [type="button"], /* 1 */
  * Remove the default vertical scrollbar in IE.
  */
 
-textarea {
   overflow: auto;
 }
 
