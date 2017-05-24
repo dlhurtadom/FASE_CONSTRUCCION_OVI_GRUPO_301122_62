@@ -296,12 +296,6 @@ html [type="button"], /* 1 */
  
  * Restore the focus styles unset by the previous rule.
  */
-
-button:-moz-focusring,
-[type="button"]:-moz-focusring,
-[type="reset"]:-moz-focusring,
-[type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText;
 }
 
 /**
