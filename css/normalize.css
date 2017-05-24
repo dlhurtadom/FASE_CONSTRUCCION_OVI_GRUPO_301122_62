@@ -281,7 +281,3 @@ select { /* 1 */
  *    controls in Android 4.
  * 2. Correct the inability to style clickable types in iOS and Safari.
  */
-
-button,
-html [type="button"], /* 1 */
-[type="reset"],
