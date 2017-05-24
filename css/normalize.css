@@ -310,8 +310,6 @@ html [type="button"], /* 1 */
  *    `fieldset` elements in all browsers.
  */
 
-  
-  color: inherit; /* 2 */
   display: table; /* 1 */
   max-width: 100%; /* 1 */
   padding: 0; /* 3 */
@@ -395,12 +393,3 @@ canvas {
 template {
   display: none;
 }
-
-/* Hidden
-   ========================================================================== */
-
-/**
- * Add the correct display in IE 10-.
- */
-
-[hidden] {
