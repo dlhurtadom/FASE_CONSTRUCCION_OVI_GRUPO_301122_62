@@ -335,7 +335,6 @@ html [type="button"], /* 1 */
  * Remove the default vertical scrollbar in IE.
  */
 
-  overflow: auto;
 }
 
 /**
@@ -367,12 +366,10 @@ html [type="button"], /* 1 */
  */
 
 }
-
  * 2. Change font properties to `inherit` in Safari.
  */
 
 }
-
 /* Interactive
    ========================================================================== */
 /*
