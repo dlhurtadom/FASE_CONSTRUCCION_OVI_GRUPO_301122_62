@@ -298,7 +298,7 @@ html [type="button"], /* 1 */
  * Change the border, margin, and padding in all browsers (opinionated).
  */
 
-  border: 1px solid #c0c0c0;
+  
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
@@ -404,4 +404,3 @@ template {
  */
 
 [hidden] {
-  display: none;
